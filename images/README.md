@@ -2,7 +2,7 @@
 
 발표 자료: https://claude.ai/artifact/CTc3euwYgF4UGta7YTQhuy
 
-- : AntV Infographic으로 만든 슬라이드용 인포그래픽(PNG)과 생성 스크립트(, )
+- 인포그래픽/: AntV Infographic으로 만든 슬라이드용 인포그래픽(PNG)과 생성 스크립트(specs.py, render.mjs)
 - 그 밖의 폴더: 정책별 사진·스크린샷 자리. 각 폴더의 README에 필요한 사진이 적혀 있음
 
 | 폴더 | 필요한 사진 |
